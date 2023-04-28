@@ -27,7 +27,7 @@ const body = document.querySelector(`body`);
 darkMode.addEventListener(`click`, () => {
   body.classList.toggle(`dark-mode`);
 });
-// 5a.
+// 5a
 const times = document.querySelector(`#times`);
 // 5b. 
 let num = 1;
